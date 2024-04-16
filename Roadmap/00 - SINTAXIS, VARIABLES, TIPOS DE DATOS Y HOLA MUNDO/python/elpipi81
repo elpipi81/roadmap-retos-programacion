@@ -1,0 +1,21 @@
+#Esto es un comentario
+#la URL del sitio del lenguaje de programacion es https://www.python.org/
+
+#comentario en una linea
+""" Comentarios en 
+mas de 
+una linea"""
+
+mi_variable = int(1)
+
+MI_CONSTANTE = int(2)
+
+string = "cadena de texto"
+int = 2
+float = 2.4
+Booleano = True
+
+lenguaje = "Phyton"
+
+
+print("!Hola", lenguaje,"!")
